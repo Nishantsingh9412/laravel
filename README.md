@@ -1,4 +1,4 @@
-# Crud Application in laravel 
+# E-Commerce Store Application in laravel 
 
 ![1](https://user-images.githubusercontent.com/59526404/198109013-d7fe3e05-682c-4887-b923-f75ae81c0293.png)
 
