@@ -1,6 +1,6 @@
 # E-Commerce Store Application in laravel 
 
-![1](https://user-images.githubusercontent.com/59526404/198109013-d7fe3e05-682c-4887-b923-f75ae81c0293.png)
+
 
 ![2](https://user-images.githubusercontent.com/59526404/198109044-1f9f658b-dcd0-48dc-ab1a-1164cc4c96be.png)
 
